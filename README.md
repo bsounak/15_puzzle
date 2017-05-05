@@ -1,5 +1,5 @@
 
-# A very basic implementation of the 15 puzzle game.
+## A very basic implementation of the 15 puzzle game.
 
 https://en.wikipedia.org/wiki/15_puzzle
 
